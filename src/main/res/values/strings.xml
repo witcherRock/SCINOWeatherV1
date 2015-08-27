@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SCINO Weather</string>
+
+    <string name="text_cloudiness">Cloudiness:</string>
+    <string name="text_pressure">Pressure:</string>
+    <string name="text_humidity">Humidity:</string>
+    <string name="text_wind">Wind:</string>
+    <string name="text_no_internet">No Internet</string>
+</resources>
